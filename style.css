@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,500i,700|Quicksand:400,500,700');
 
 body {
-  background-color: rgba(245, 225, 218, .6);
+  background-color: rgba(56, 81, 112, .9);
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -16,7 +16,7 @@ body {
 }
 
 h1, h2 {
-  color: #085f63;
+  color: #142d4c;
   font-family: 'Quicksand', sans-serif;
 }
 
@@ -35,7 +35,7 @@ p {
 }
 
 h3 {
-  color: #49beb7;
+  color: #9fd3c7;
   font-family: 'Quicksand', sans-serif;
 }
 
@@ -58,7 +58,7 @@ img {
 .btn-green {
   text-decoration: none;
   font-weight: bolder;
-  background-color: #49beb7;
+  background-color: #9fd3c7;
   color: white;
   padding: 12px 20px;
   display: inline-block;
@@ -67,17 +67,17 @@ img {
 }
 
 .btn-green:hover {
-  background-color: #085f63;
+  background-color: #142d4c;
 }
 
 .social-icon {
   font-size: 60px;
   margin: 0 20px;
-  color: #49beb7;
+  color: #9fd3c7;
 }
 
 .social-icon:hover {
-  color: #085f63;
+  color: #142d4c;
 }
 
 .list-inline > li {
